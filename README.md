@@ -2,7 +2,7 @@
 
 ## About Me 
 👩🏼‍🎓 I am a Gajah Mada University student pursuing a degree in Geographic Information System. <br>
-🌱 Currently learning 
+🌱 Currently learning 3d object
 
 ## 🔧 Skills 
 <a href="php.com"><img src="https://www.vectorlogo.zone/logos/php/php-icon.svg" width="40" height="40"/></a>
